@@ -83,14 +83,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Ideas.md",
-			"settings":
-			{
-				"buffer_size": 3591,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/User/MD2PDF.sublime-build",
 	"command_palette":
@@ -284,6 +276,7 @@
 	},
 	"file_history":
 	[
+		"/Users/matthewborden/Documents/GitHub/chathamprobus.com.au/Ideas.md",
 		"/C/Users/300068/Documents/GitHub/bootstrap/docs/assets/css/bootstrap.css",
 		"/C/Users/300068/Documents/GitHub/mrwood.com.au/sandpit/MrWood.com.au - Legal Studies - Unit 1.htm",
 		"/C/Users/300068/Documents/GitHub/Cool Stuff/app.js",
@@ -410,8 +403,7 @@
 		"/C/OpenCV/build/include/opencv2/videostab/log.hpp",
 		"/C/OpenCV/build/include/opencv2/videostab/motion_stabilizing.hpp",
 		"/C/OpenCV/build/include/opencv2/videostab/optical_flow.hpp",
-		"/C/OpenCV/build/include/opencv2/videostab/stabilizer.hpp",
-		"/C/OpenCV/build/include/opencv2/videostab/videostab.hpp"
+		"/C/OpenCV/build/include/opencv2/videostab/stabilizer.hpp"
 	],
 	"find":
 	{
@@ -487,35 +479,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Ideas.md",
-					"settings":
-					{
-						"buffer_size": 3591,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								20
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownBuild/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
