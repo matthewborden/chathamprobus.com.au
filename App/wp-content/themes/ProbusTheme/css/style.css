@@ -1,0 +1,35 @@
+.navbar {
+	border-radius: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+img.icon { margin-bottom:15px; margin: 0 auto;}
+
+.top { margin-top:20px;}
+
+.manage-column {
+	width: 300px;
+}
+
+.event-time {
+	width:50%;
+}
+
+.events-table tbody tr td br {
+	display:none;
+}
+
+.events-table tbody tr td{
+	padding-top:20px;
+}
+
+.lines {
+	border-color: #e5e5e5;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-style: solid;
+}
+
+.events-table {
+	margin:0 auto;
+}
